@@ -1,3 +1,3 @@
 # predict_pulsars
 Prediction of pulsars
-![](rating_models.png)
+![img1](rating_models.png "Score rating accuracy")
